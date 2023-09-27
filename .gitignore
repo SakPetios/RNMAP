@@ -1,4 +1,5 @@
 /target
 *.todo
 rnmap
+*.sh
 
